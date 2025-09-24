@@ -81,7 +81,7 @@ REINFORCEMENT PROJECT - PYTHON
 
 ### Multivariate Heatmap
 
-![Heatmap](Visualizations/MultiVariate-1.png)
+![Heatmap](Visualizations/MultiVariate-2.png)
 
 ---
 
