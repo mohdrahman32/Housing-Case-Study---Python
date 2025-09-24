@@ -106,7 +106,7 @@ REINFORCEMENT PROJECT - PYTHON
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/housing-case-study.git
+   git clone https://github.com/mohdrahman32/Housing-Case-Study---Python.git
    cd housing-case-study
    ```
 2. Install dependencies:
